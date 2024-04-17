@@ -3,6 +3,7 @@ require("@openzeppelin/hardhat-upgrades");
 require("dotenv/config");
 
 const accounts = [
+  // temp account
   "a40a49d61d05f6800ebc209aea14a150b04296093bb715bf0151dffb52192b75",
 ];
 
